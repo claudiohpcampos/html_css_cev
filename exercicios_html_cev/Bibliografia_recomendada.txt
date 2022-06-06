@@ -1,0 +1,31 @@
+Barra de favoritos-pasta HTML
+
+Livros
+série oreilly => 
+ HTML5 up and running - Mark Pilgrim,
+ Flebox in CSS - Estellle Weyl,
+ CSS - Eric Meyer,
+ Grid Layout in CSS - Eric Meyer.
+
+Alta Books
+ HTML5 e CSS3 - Elizabeth Castro e Bruce Hyslop,
+ HTML&CSS - Jon Duckett,
+ HTML e CSS - Elisabeth Robson e Eric Freeman.
+
+Novatec
+ Crie seu próprio site - Nate Cooper e Kim Gee.
+
+Novatec - Maurício Samy Silva
+ HTML5,
+ CSS3,
+ Fundamentos de HTML5 e CSS3,
+ CSS grid layout.
+
+Designer
+GG
+Curso de design gráfico_princípios e prática - David Dabner e outros,
+A psicologia das cores - Eva Heller,
+Pensar com tipos - Ellen Lupton.
+
+SENAC
+O essencial do designer gráfico - Bob e Magie Gordon.
